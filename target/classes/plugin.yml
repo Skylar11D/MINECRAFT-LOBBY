@@ -1,0 +1,9 @@
+name: Lobby
+main: org.skylar.minecraftp.Main
+version: 1.0
+author: Skylar11D
+
+commands:
+  setspawn:
+  spawn:
+  build:
