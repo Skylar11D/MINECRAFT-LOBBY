@@ -10,8 +10,6 @@ import java.util.Set;
 
 public class PlayerManager {
 
-    //borrowed concept
-
     Set<LPlayer> players = new HashSet<>();
 
     public Set<LPlayer> getPlayers() {
